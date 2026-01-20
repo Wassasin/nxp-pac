@@ -5,6 +5,8 @@ includes:
   - mcxa/port.yaml
   - mcxa/gpio.yaml
   - mcxa/dma.yaml
+  - mcxa/wwdt.yaml
+  - mcxa/trng.yaml
 transforms:
   - !Sort
 
