@@ -1,2 +1,2 @@
 transforms:
-  - !Sanitize
+  - !SanitizeV2
